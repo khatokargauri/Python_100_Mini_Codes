@@ -12,5 +12,5 @@ Topics Covered
 - Game Development
 - GUI Apps
 
-Goal
+Goal : 
 To build strong Python skills through consistent daily coding.
